@@ -129,6 +129,7 @@ body {
     color: #FFFFFF;
     background-color: var(--accent-color);
     border: none;
+    cursor:pointer
 }
 .button-order:hover,
 .button-order:focus {
@@ -151,7 +152,6 @@ body {
 }
 
 .list-text {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71px;
     letter-spacing: 0.03em;
@@ -174,7 +174,6 @@ body {
     letter-spacing: 0.03em;
 }
 .position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
@@ -200,7 +199,6 @@ a .logo-part:hover {
 .footer-tel {
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -232,6 +230,7 @@ a .logo-part:hover {
     line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
+    cursor: pointer;
 }
 .filter:hover,
 .filter:focus {
@@ -246,7 +245,6 @@ a .logo-part:hover {
     letter-spacing: 0.06em;
 }
 .filter-name {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
     letter-spacing: 0.03em;
